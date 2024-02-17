@@ -1,0 +1,23 @@
+#Helpful packages
+
+**Data analyses**
+Seurat - all things single cell
+SingleR - cell type annotations (use with caution)
+immunarch - TCR/BCR repertoire
+rstatix - general stats
+precrec - ROC
+survival - survival analyses
+vegan - diversity analsyses (I used for TCR repertoire statistics)
+cutpointr - useful for determining cutouffs between groups
+fgesa - fast GSEA
+DESeq2 - differential expression (RNA-seq)
+
+**ggplot add ons**
+patchwork - combining plots
+ggsci - journal themed color palates
+survminer - survival plots
+ggrepel - labels that don't overlap
+
+**Other plots**
+ComplexHeatmap - heatmaps 
+circlize - circos plots

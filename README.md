@@ -16,3 +16,10 @@ General resources for R, for biologists
 - Simon Cockell youtube videos (Very helpful "bioinformatics along" from FASTQ to data analysis in R)
 - https://www.youtube.com/c/SimonCockell/videos
 
+**Best practice tools**
+- Git for the useR
+- https://happygitwithr.com/big-picture
+- R studio projects - see R for data science chapter 6-
+- https://r4ds.hadley.nz/workflow-scripts
+- Making reproducible environments
+- https://rstudio.github.io/renv/articles/renv.html

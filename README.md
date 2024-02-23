@@ -19,7 +19,7 @@ General resources for R, for biologists
 **Best practice tools**
 - Git for the useR
 - https://happygitwithr.com/big-picture
-- R studio projects - see R for data science chapter 6-
+- R studio projects - see R for data science chapter 6:
 - https://r4ds.hadley.nz/workflow-scripts
 - Making reproducible environments
 - https://rstudio.github.io/renv/articles/renv.html

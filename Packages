@@ -14,7 +14,8 @@ DESeq2 - differential expression (RNA-seq)
 
 **ggplot add ons**
 patchwork - combining plots
-ggsci - journal themed color palates
+scico - better color palattes
+ggsci - journal themed color palattes
 survminer - survival plots
 ggrepel - labels that don't overlap
 

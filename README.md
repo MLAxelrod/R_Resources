@@ -23,3 +23,6 @@ General resources for R, for biologists
 - https://r4ds.hadley.nz/workflow-scripts
 - Making reproducible environments
 - https://rstudio.github.io/renv/articles/renv.html
+- Color palatte resources
+- https://www.fabiocrameri.ch/colourmaps-userguide/
+- https://github.com/thomasp85/scico
